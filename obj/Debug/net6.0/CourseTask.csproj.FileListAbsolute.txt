@@ -1,0 +1,15 @@
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask\bin\Debug\net6.0\CourseTask.exe
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask\bin\Debug\net6.0\CourseTask.deps.json
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask\bin\Debug\net6.0\CourseTask.runtimeconfig.json
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask\bin\Debug\net6.0\CourseTask.dll
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask\bin\Debug\net6.0\CourseTask.pdb
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask\obj\Debug\net6.0\CourseTask.csproj.AssemblyReference.cache
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask\obj\Debug\net6.0\CourseTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask\obj\Debug\net6.0\CourseTask.AssemblyInfoInputs.cache
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask\obj\Debug\net6.0\CourseTask.AssemblyInfo.cs
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask\obj\Debug\net6.0\CourseTask.csproj.CoreCompileInputs.cache
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask\obj\Debug\net6.0\CourseTask.dll
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask\obj\Debug\net6.0\refint\CourseTask.dll
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask\obj\Debug\net6.0\CourseTask.pdb
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask\obj\Debug\net6.0\CourseTask.genruntimeconfig.cache
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask\obj\Debug\net6.0\ref\CourseTask.dll

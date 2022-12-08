@@ -1,0 +1,7 @@
+(1,"FI","Finland"),
+(2,"DE","Germany"),
+(3,"JP", "Japan"),
+(4,"LU","Luxembourg"),
+(5,"IT","Italy"),
+(6,"ES","Spain"),
+(7,"GB","United Kingdom")

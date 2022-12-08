@@ -1,0 +1,6 @@
+(1,"JU-52","Junkers Ju 52"),
+(2,"S-76","Sikorsky S-76"),
+(3,"A320","Airbus A320"),
+(4,"747","Boeing 747-446D"),
+(5,"DC-10-40D","Douglas DC-10-40D"),
+(6,"Fokker-50","Fokker 50")

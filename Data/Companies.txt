@@ -1,0 +1,7 @@
+(1,"FinnAir",1),
+(2,"German Airways",2),
+(3,"Japan Airlines",3),
+(4,"Luxair",4),
+(5,"ITA Airways",5),
+(6,"Vueling Airlines",6),
+(7,"British Airways",7)
