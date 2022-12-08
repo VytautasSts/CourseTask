@@ -11,5 +11,18 @@ namespace CourseTask.Models
 {
     public struct CountryList
     {
+        public int ID { get; set; }
+        public string CompanyCountryCode { get; set; }
+        public string CompanyCountryName { get; set; }
+        public bool EuCountry { get; set; }
+
+        public CountryList(int id, string countryCode, string countryName)
+        {
+            ID = id;
+            CompanyCountryCode = countryCode;
+            CompanyCountryName = countryName;
+            if (CountryDataBase.europe.Contains(countryName)) EuCountry= true;
+            else EuCountry = false;
+        }
     }
 }
