@@ -11,6 +11,14 @@ namespace CourseTask.Models
 {
     public struct AircraftModelList
     {
-       
+        public int ID { get; set; }
+        public string ModelNumber { get; set; }
+        public string ModelDescription { get; set; }
+        public AircraftModelList(int id, string model, string description)
+        {
+            ID = id;
+            ModelNumber = model;
+            ModelDescription = description;
+        }
     }
 }

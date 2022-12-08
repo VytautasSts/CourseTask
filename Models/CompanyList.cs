@@ -11,6 +11,15 @@ namespace CourseTask.Models
 {
     public struct CompanyList
     {
-        
+        public int ID { get; set; }
+        public string OwnerCompanyName { get; set; }
+        public int OwnerCountryId { get; set; }
+
+        public CompanyList(int id, string companyName, int countryId)
+        {
+            ID = id;
+            OwnerCompanyName = companyName;
+            OwnerCountryId = countryId;
+        }
     }
 }
