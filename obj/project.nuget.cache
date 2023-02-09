@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xioJr2ZccOD3iUNkCv+KyVxZKYsr0DbXHuNCEinFcBQEFtjowVf1Koh1gWQjdvZHPqQ47IfcN0Qh43/4maDPtA==",
+  "dgSpecHash": "s7ckXQ3p+1on9vlepWp9L5ANXdQpc08XuNLnytTP/ql+UBKUmBiqlH0rvxyjp7jjBPN4ZGFbb9+40gsxe42sLw==",
   "success": true,
   "projectFilePath": "C:\\Users\\vytas\\source\\repos\\CodeAcademy\\CourseTask\\CourseTask.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vytas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\vytas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\vytas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\vytas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
